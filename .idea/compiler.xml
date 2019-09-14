@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="practice_project_common" />
+        <module name="practice_project_dao" />
+        <module name="practice_project_interface" />
+        <module name="practice_project_job" />
+        <module name="practice_project_pojo" />
+        <module name="practice_project_service" />
+        <module name="practice_project_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="practice_project_common" target="1.8" />
+      <module name="practice_project_dao" target="1.8" />
+      <module name="practice_project_interface" target="1.8" />
+      <module name="practice_project_job" target="1.8" />
+      <module name="practice_project_parent" target="1.8" />
+      <module name="practice_project_pojo" target="1.8" />
+      <module name="practice_project_service" target="1.8" />
+      <module name="practice_project_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

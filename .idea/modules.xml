@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/practice_project_common/practice_project_common.iml" filepath="$PROJECT_DIR$/practice_project_common/practice_project_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_project_dao/practice_project_dao.iml" filepath="$PROJECT_DIR$/practice_project_dao/practice_project_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_project_interface/practice_project_interface.iml" filepath="$PROJECT_DIR$/practice_project_interface/practice_project_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_project_job/practice_project_job.iml" filepath="$PROJECT_DIR$/practice_project_job/practice_project_job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_project_parent.iml" filepath="$PROJECT_DIR$/practice_project_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_project_pojo/practice_project_pojo.iml" filepath="$PROJECT_DIR$/practice_project_pojo/practice_project_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_project_service/practice_project_service.iml" filepath="$PROJECT_DIR$/practice_project_service/practice_project_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice_project_web/practice_project_web.iml" filepath="$PROJECT_DIR$/practice_project_web/practice_project_web.iml" />
+    </modules>
+  </component>
+</project>
